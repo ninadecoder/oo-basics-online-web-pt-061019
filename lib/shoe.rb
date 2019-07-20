@@ -45,5 +45,6 @@ class Shoe
   end
   
   def shoe.condition
-    
+  
+  end
 end
